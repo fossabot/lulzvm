@@ -4,6 +4,7 @@
 [![codecov.io](http://codecov.io/github/alopatindev/lulzvm/coverage.svg?branch=master)](https://codecov.io/github/alopatindev/lulzvm?branch=master)
 [![Language: Rust](https://img.shields.io/badge/language-Rust-orange.svg)](http://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falopatindev%2Flulzvm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falopatindev%2Flulzvm?ref=badge_shield)
 
 LulzVM
 ======
@@ -66,3 +67,7 @@ executable | <-- locals stack | <-- return address stack | event handlers | <-- 
 |0x05|UNKNOWN_ERROR   |Fatal   |
 
 Fatal priority events run instantly.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falopatindev%2Flulzvm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falopatindev%2Flulzvm?ref=badge_large)
